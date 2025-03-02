@@ -5,19 +5,11 @@ Cloud Gaming, among other cloud services, is a streaming-based service, much lik
 ## When did Cloud Gaming become a thing?
 Cloud Gaming as a concept has never seen the light of day until E3 2000, as the service was announced by G-Cluster startup. The service consisted of providing remote access to PC Games that ran on their servers through customer-friendly portals.
 
-
-
-## How does Cloud Gaming work?
-Cloud Gaming is not entirely tricky to understand, but tricky to implement which is why its providers are not as numerous as there are game developers.
-
 Here are the three main components of Cloud Gaming:
 
 - **The Product:** Either games whose license you already own or games that are provided to you through a certain subscription.
 
-  See more on that in ...
-
-
-
+  See more on that in [What are the most famous cloud gaming services out there?](https://github.com/TobiRourou/Raid-Attab-Technical-Writing/wiki/_new?wiki%5Bname%5D=_Footer#what-are-the-most-famous-cloud-gaming-services-out-there)
 
 - **The Channel:** A Cloud Gaming platform will stream live gameplay that is run by their servers (and their hardware) to your end through a series of compressed frames.
 
@@ -51,13 +43,7 @@ Here are the three main components of Cloud Gaming:
 ## What about FPS ?
 In a lot of cases, a game's performance through Cloud Gaming is highly dependent on the game itself rather than the service. A lot of games allow you to switch from Performance (60 FPS) to Fidelity mode (30 FPS), as the games are played in servers with console specs which may explained why the FPS is capped.
 
-![Forza Horizon 5](<Xbox 02_03_2025 16_24_03.png>)
 
-![Forza Horizon 5](<Xbox 2025-03-02 23-21-45.gif>)
-
-![Forza Horizon 5](<Xbox 02_03_2025 16_24_07.png>)
-
-![Forza Horizon 5](<Xbox 2025-03-02 01-00-00-2.gif>)
 
 However, there are cases in which outside factors may have an effect on the performance, as in the following:
 
