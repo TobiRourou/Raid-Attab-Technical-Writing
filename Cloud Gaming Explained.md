@@ -48,7 +48,7 @@ In a lot of cases, a game's performance through Cloud Gaming is highly dependent
 However, there are cases in which outside factors may have an effect on the performance, as in the following:
 
 - **Clarity Boost Feature:** Cloud Gaming Services allow you to toggle a clarity boost feature which will lessen the grain and the blur effect in the stream. The video compression will focus on the delivering the highest quality possible as per your network bandwith, which will have an effect on the performance.
-- **Nandwith**: spikes in your internet connection help elevate the framerate, and connect your input with its logic in the stream as fast as possible. However, lack of consistency and slower internet will both reduce the clarity of the stream, intiate late output and slow the performance overall.
+- **Bandwith**: spikes in your internet connection help elevate the framerate, and connect your input with its logic in the stream as fast as possible. However, lack of consistency and slower internet will both reduce the clarity of the stream, intiate late output and slow the performance overall.
 - **Beta**: The service you are using, as Xbox Cloud Gaming, can be at the beta stage, which may lower expectations of performance as it is still under development and monitoring. This means that high server load during peak hours can affect clarify and performance as well.
 
 ## What are the most famous Cloud Gaming services out there?
@@ -59,6 +59,10 @@ However, there are cases in which outside factors may have an effect on the perf
   | Geforce Now | ✅ | ❌ |
   | Amazon Luna | ✅ | ✅ |
 
-Should I fully switch to Cloud Gaming now?
+## Is there a daily limit to Cloud Gaming?
+
+## How Safe is Cloud Gaming?
+
+## Should I fully switch to Cloud Gaming now?
 
 ## Key Takeways
