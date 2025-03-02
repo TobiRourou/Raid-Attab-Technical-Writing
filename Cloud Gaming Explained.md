@@ -59,4 +59,6 @@ However, there are cases in which outside factors may have an effect on the perf
   | Geforce Now | ✅ | ❌ |
   | Amazon Luna | ✅ | ✅ |
 
+Should I fully switch to Cloud Gaming now?
+
 ## Key Takeways
