@@ -52,17 +52,38 @@ However, there are cases in which outside factors may have an effect on the perf
 - **Beta**: The service you are using, as Xbox Cloud Gaming, can be at the beta stage, which may lower expectations of performance as it is still under development and monitoring. This means that high server load during peak hours can affect clarify and performance as well.
 
 ## What are the most famous Cloud Gaming services out there?
-
-  | **Cloud Gaming Service**| **License**| **No License**|
+ 
+  | **Cloud Gaming Service**| **Games per owned License**| **Games per monthly subscription**|
   | ----------- | -----------| --------- |
-  | Xbox CLoud Gaming     |   ✅([These Games Only](https://news.xbox.com/en-us/2024/11/20/stream-your-own-game-xbox-cloud-gaming-beta/))   | ✅ |
-  | Geforce Now | ✅ | ❌ |
-  | Amazon Luna | ✅ | ✅ |
+  | [Xbox Cloud Gaming](https://www.xbox.com/en-us/play)   |   ✅([These Games Only](https://news.xbox.com/en-us/2024/11/20/stream-your-own-game-xbox-cloud-gaming-beta/))   | ✅ |
+  | [Geforce Now](https://www.nvidia.com/en-us/geforce-now/) | ✅ | ❌ |
+  | [Amazon Luna](https://luna.amazon.com/) | ✅ | ✅ |
+  | [Shadow](https://shadow.tech/) | ✅ | ❌ |
+  | [Playstation Now](https://www.playstation.com/en-us/support/subscriptions/ps-plus-pc/) | ❌ | ✅ |
 
 ## Is there a daily limit to Cloud Gaming?
+Until now, across all platforms, there is no actual limit to Cloud Gaming except for the end of the subscription service as it is not a one time purchase.
+
+ However, one should bear in mind that after an extended period of playing, experiencing latency can be a direct result of server overload. The frequency of server overload depends on the chosen service's number and power of their servers within their data cetners. To adjust this, Cloud Gaming Services use game-specific queues for users that are decided based on the type of paid subscription.
+
+ Update: Geforce Now announced that, as of 01/01/2025, there will be a monthly limit of 100 hours.
+
+ > "At the start of next year, GeForce NOW will roll out a 100-hour monthly playtime allowance to continue providing exceptional quality and speed — as well as shorter queue times — for Performance and Ultimate members. This ample limit comfortably accommodates 94% of members, who typically enjoy the service well within this timeframe." -[Nvidia](https://blogs.nvidia.com/blog/geforce-now-thursday-performance-membership/)
 
 ## How Safe is Cloud Gaming?
+Overall, Cloud Gaming is generally labeled as a secure service, especially when run by reputable providers like Nvidia or Microsoft.
+
+Here's why:
+
+- **Consistent security updates**: Cloud Gaming platforms release consistent updates, not only to optimize the experience and address issues, but also to reinforce security measures as well.
+- **Smaller possibility for in-game Cheat and Hacking**: As the games are stored in a cloud-based storage base, the possibiliy for hacking and in-game cheating is greately reduced as they often require a local path that is sheltered from the platform's security reach.
+
+However, there are some serious risks to be concerned about as well.
+
+- **Privacy and Monitoring**: As you are no longer playing offline without connection to the platform, there is a certain level of monitoring, even automatic in order for the platform to gather survey results in service of their own business plan. For a lot of gamers, this loss of privacy can be quite concerning.
+- **Account Theft/hijacking**: You are also not exempted from account theft and hijacking. When your account has access to a large library of games, your consistent presence online in the Cloud incites the possibility of attempts of account theft in order for it to be resold later. This is a lot more common than you might imagine.
+- **Weak encryption**: The channel that is streaming the content to your end and receiving your input is expected to be encrypted. The gaps in the encryption allow for hackers to hijack the process and exploit it for [ADD LATER]
+- **Vulnerabilities in APIs**: Much similar to the encryption, APIs help connect the games with the platform as they are run by two different entities. In-game payments also include APIs as they connect the player to a certain portal for payments. As Cloud Gaming is a service that is fully online, including a gigantic library of games with different services and APIS with the provider's servers running almost simultaneously. The gaps in APIs can also be exploited for the purposes of hacking and extracting information regarding your accounts and payments. This can only be amended with more security updates by the service provider.
 
 ## Should I fully switch to Cloud Gaming now?
 
-## Key Takeways
