@@ -9,8 +9,6 @@ Here are the three main components of Cloud Gaming:
 
 - **The Product:** Either games whose license you already own or games that are provided to you through a certain subscription.
 
-  See more on that in [What are the most famous cloud gaming services out there?](https://github.com/TobiRourou/Raid-Attab-Technical-Writing/wiki/_new?wiki%5Bname%5D=_Footer#what-are-the-most-famous-cloud-gaming-services-out-there)
-
 - **The Channel:** A Cloud Gaming platform will stream live gameplay that is run by their servers (and their hardware) to your end through a series of compressed frames.
 
   | **Server Component**     | **Role** |
