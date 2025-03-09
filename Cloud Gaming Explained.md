@@ -41,12 +41,12 @@ Here are the three main components of Cloud Gaming:
 ## What about FPS ?
 In a lot of cases, a game's performance through Cloud Gaming is highly dependent on the game itself rather than the service. A lot of games allow you to switch from Performance (60 FPS) to Fidelity mode (30 FPS), as the games are played in servers with console specs which may explained why the FPS is capped.
 
-
-
 However, there are cases in which outside factors may have an effect on the performance, as in the following:
 
 - **Clarity Boost Feature:** Cloud Gaming Services allow you to toggle a clarity boost feature which will lessen the grain and the blur effect in the stream. The video compression will focus on the delivering the highest quality possible as per your network bandwith, which will have an effect on the performance.
+  
 - **Bandwith**: spikes in your internet connection help elevate the framerate, and connect your input with its logic in the stream as fast as possible. However, lack of consistency and slower internet will both reduce the clarity of the stream, intiate late output and slow the performance overall.
+  
 - **Beta**: The service you are using, as Xbox Cloud Gaming, can be at the beta stage, which may lower expectations of performance as it is still under development and monitoring. This means that high server load during peak hours can affect clarify and performance as well.
 
 ## What are the most famous Cloud Gaming services out there?
@@ -74,14 +74,30 @@ Overall, Cloud Gaming is generally labeled as a secure service, especially when 
 Here's why:
 
 - **Consistent security updates**: Cloud Gaming platforms release consistent updates, not only to optimize the experience and address issues, but also to reinforce security measures as well.
+  
 - **Smaller possibility for in-game Cheat and Hacking**: As the games are stored in a cloud-based storage base, the possibiliy for hacking and in-game cheating is greately reduced as they often require a local path that is sheltered from the platform's security reach.
 
 However, there are some serious risks to be concerned about as well.
 
 - **Privacy and Monitoring**: As you are no longer playing offline without connection to the platform, there is a certain level of monitoring, even automatic in order for the platform to gather survey results in service of their own business plan. For a lot of gamers, this loss of privacy can be quite concerning.
+  
 - **Account Theft/hijacking**: You are also not exempted from account theft and hijacking. When your account has access to a large library of games, your consistent presence online in the Cloud incites the possibility of attempts of account theft in order for it to be resold later. This is a lot more common than you might imagine.
-- **Weak encryption**: The channel that is streaming the content to your end and receiving your input is expected to be encrypted. The gaps in the encryption allow for hackers to hijack the process and exploit it for [ADD LATER]
+  
+- **Weak encryption**: The channel that is streaming the content to your end and receiving your input is expected to be encrypted. The gaps in the encryption allow for hackers to hijack the process and exploit it for different purposes.
+  
 - **Vulnerabilities in APIs**: Much similar to the encryption, APIs help connect the games with the platform as they are run by two different entities. In-game payments also include APIs as they connect the player to a certain portal for payments. As Cloud Gaming is a service that is fully online, including a gigantic library of games with different services and APIS with the provider's servers running almost simultaneously. The gaps in APIs can also be exploited for the purposes of hacking and extracting information regarding your accounts and payments. This can only be amended with more security updates by the service provider.
 
-## Should I fully switch to Cloud Gaming now?
+## Conclusion: Should I fully switch to Cloud Gaming now?
+
+It can be agreeable that Cloud Gaming offers a cheaper option for gaming that, when choosing the right service along with the right set of requirements from the user's end, presents the customer with a relatively satisfactory experience.
+
+However, there are some important details to remember before fully switching to Cloud Gaming that may convince you to reconsider your decision.
+
+- **Service Lifecycle**: Not owning the hardware in which you run the games you own can be regarded as a risky move. Aside from the different outages and maintenance operations that will prevent you accessing the service for a certain timeperiod, lack of content, traction and technical support for arising issues may lead to the end of Cloud Gaming. A prominent example would be how [Google Stadia](https://stadia.google.com/gg/) was shut down in 2023 because of the said factors.
+
+- **Game Ownership**: This is more related to games that are available per subscription rather than license. In case of Xbox Cloud Gaming, games occasionally drop on Game Pass Ultimate and then leave after a while. This is a reminder that servers cannot store an infinite amount of games, and the list needs to be updated as per deals with game developers and storage requirements.
+
+- **Privacy concerns**: Again, as Cloud Gaming is a fully digital service, the privacy concerns that are raised above, from monitoring, account theft and encryption vulnerabilities, can put your accesses at a high risk.
+
+In a way, Cloud Gaming as an option can be a great choice, but only when it is not your only option for gaming.
 
