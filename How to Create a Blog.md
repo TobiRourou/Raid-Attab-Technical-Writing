@@ -1,9 +1,9 @@
 # Table of contents
-- [Introduction](https://github.com/TobiRourou/Technical-W/wiki/_new#introduction)
-- [Domain](https://github.com/TobiRourou/Technical-W/wiki/_new#domain)
-- [Hosting](https://github.com/TobiRourou/Technical-W/wiki/_new#hosting)
-- [Platforms](https://github.com/TobiRourou/Technical-W/wiki/_new#platform)
-- [SSL](https://github.com/TobiRourou/Technical-W/wiki/_new#ssl)
+- [Introduction](https://github.com/TobiRourou/Technical-W/wiki/_#introduction)
+- [Domain](https://github.com/TobiRourou/Technical-W/wiki/_#domain)
+- [Hosting](https://github.com/TobiRourou/Technical-W/wiki/_#hosting)
+- [Platforms](https://github.com/TobiRourou/Technical-W/wiki/_#platform)
+- [SSL](https://github.com/TobiRourou/Technical-W/wiki/_#ssl)
 
 
 # Introduction
