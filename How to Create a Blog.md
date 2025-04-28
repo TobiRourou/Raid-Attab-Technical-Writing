@@ -1,11 +1,3 @@
-# Table of contents
-- [Introduction](https://github.com/TobiRourou/Technical-W/wiki/_#introduction)
-- [Domain](https://github.com/TobiRourou/Technical-W/wiki/_#domain)
-- [Hosting](https://github.com/TobiRourou/Technical-W/wiki/_#hosting)
-- [Platforms](https://github.com/TobiRourou/Technical-W/wiki/_#platform)
-- [SSL](https://github.com/TobiRourou/Technical-W/wiki/_#ssl)
-
-
 # Introduction
 In 2019, I was a freshman in university with a lot of time in my hands due to the pandemic and the lockdown. I was an English major with an interest in media work, and I wanted to make a blog. I used to think that the process includes a lot of coding, which I was not interested in doing at the time, but that is not the case. It turns out if you learn coding, you will have better control over your website, but that is not a requisite nowadays. With a short budget, you are now able to create a fully capable blog with the potential to gain visitors, the same as any other giant in the search bar.
 
