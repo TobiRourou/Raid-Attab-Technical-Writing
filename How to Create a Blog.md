@@ -47,7 +47,7 @@ Often times, the same services that provide domain names are the same ones that 
 Here are notable examples:
 
 - [Bluehost](https://www.bluehost.com/)
-- [Hostinger](https://www.hostinger.com/m)
+- [Hostinger](https://www.hostinger.com/)
 - [DreamHost](https://www.dreamhost.com/)
 - [HostGator](https://www.hostgator.com/)
 - [Ionos](https://www.ionos.com/)
