@@ -97,9 +97,8 @@ However, there are some important details to remember before fully switching to 
 
 - **Game Ownership**: This is more related to games that are available per subscription rather than license. In case of Xbox Cloud Gaming, games occasionally drop on Game Pass Ultimate and then leave after a while. This is a reminder that servers cannot store an infinite amount of games, and the list needs to be updated as per deals with game developers and storage requirements.
 
-*Note: I have used this format instead of Google Drive or Dropbox in order to display the Markdown script alongisde the final product*
-
 - **Privacy concerns**: Again, as Cloud Gaming is a fully digital service, the privacy concerns that are raised above, from monitoring, account theft and encryption vulnerabilities, can put your accesses at a high risk.
 
 In a way, Cloud Gaming as an option can be a great choice, but only when it is not your only option for gaming.
 
+*Note: I have used this format to share my work instead of Google Drive or Dropbox in order to display the Markdown script alongisde the final product*
