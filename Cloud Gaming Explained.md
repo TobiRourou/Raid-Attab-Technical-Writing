@@ -1,7 +1,8 @@
 # Cloud Gaming Explained
 
 ## What is Cloud Gaming?
-Cloud Gaming, among other cloud services, is a streaming-based service, much like Netflix, that allows you play games run in remote powerful servers from your PC, Console, Tablet or phone. Much of the effort is done by the service's end by maintaining solid CPU and GPU performance along with consistent video compression while the end user is required to have a fast internet connection along with the game-specific input device (keyboard/controller).
+Cloud Gaming, among other cloud services, is a streaming-based service, much like Netflix, that allows you play games streaming from powerful remote servers to your PC, console, tablet or phone. Much of the effort is done by the service's end by maintaining solid CPU and GPU performance along with consistent video compression while the end user is required to have a fast internet connection along with the game-specific input device (keyboard/controller).
+
 ## When did Cloud Gaming become a thing?
 Cloud Gaming as a concept has never seen the light of day until E3 2000, as the service was announced by G-Cluster startup. The service consisted of providing remote access to PC Games that ran on their servers through customer-friendly portals.
 
@@ -24,7 +25,7 @@ Here are the three main components of Cloud Gaming:
 
 <ins>**Important Requirements:**
 
-- **Network Transmission:** the process requires a strong bandwith in order to achieve Low latency (MORE TO BE ADDED). In other words, the stronger the bandwith is, the clearer the transmitted images are and the faster your input transmission is.
+- **Network Transmission:** the process requires a strong bandwith in order to achieve Low latency. In other words, the stronger the bandwith is, the clearer the transmitted images are and the faster your input transmission is.
 
    Here are the minimum requirements for a bandwith to be suitable for Cloud gaming:
      
@@ -39,7 +40,7 @@ Here are the three main components of Cloud Gaming:
 
 
 ## What about FPS ?
-In a lot of cases, a game's performance through Cloud Gaming is highly dependent on the game itself rather than the service. A lot of games allow you to switch from Performance (60 FPS) to Fidelity mode (30 FPS), as the games are played in servers with console specs which may explained why the FPS is capped.
+In a lot of cases, a game's performance through Cloud Gaming is highly dependent on the game itself rather than the service. A lot of games allow you to switch from Performance (60 FPS) to Fidelity mode (30 FPS), as the games are played in servers with console specs which may explain why the FPS is capped.
 
 However, there are cases in which outside factors may have an effect on the performance, as in the following:
 
